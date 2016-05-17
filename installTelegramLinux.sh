@@ -1,7 +1,7 @@
 #!/bin/bash
 # Desenvolvido por Abel da Silva
 # GitHub: https://github.com/p8p9/
-# Data: 17/05/2016
+# Data de Criação: 17/05/2016
 # Shell-script para instalação do Telegram
 # Funcionalidades: 
 #                 *Está adaptável para futuras versões

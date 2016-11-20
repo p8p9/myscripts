@@ -48,7 +48,7 @@ clear
 # Criar atalho de menu para Telegram
 echo -e '[Desktop Entry]\n Version=1.0\n Name=Telegram\n Exec=/opt/telegram/Telegram\n Icon=/opt/telegram/Telegram\n Type=Application\n Categories=Application;Network;' | sudo tee /usr/share/applications/telegram.desktop
 clear
-echo "Atalho criado com sucesso, acesse o aplicativo pelo menu seu DM preferido ;)"
+echo "Atalho criado com sucesso, acesse o aplicativo pelo menu do seu DM preferido ;)"
 sleep 5
 clear
 exit
